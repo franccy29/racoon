@@ -9,6 +9,6 @@ if it doesnt work, maybe you dont have:
   2: leptos, in that case juste run
     $ cargo install leptos-cargo
 
-if there's other probleme, look at the README.md in the app folder.
+if there's other problem, look at the README.md in the app folder.
 
 doc leptos rendu: Server Functions
